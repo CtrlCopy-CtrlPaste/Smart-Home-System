@@ -1,2 +1,2 @@
 # Smart-Home-System
-A smart home system for newly built apartments &amp; houses.
+//A smart home system for newly built apartments &amp; houses.
